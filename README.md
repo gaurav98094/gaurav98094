@@ -5,7 +5,7 @@
 
 - 💬 Ask me about **MERN, Data Science and Data Visuaization**
 
-- 📫 How to reach me **kandelgaurav7@gmail.com**
+- 📫 Reach me at **kandelgaurav7@gmail.com**
 
 
 <h3 align="left">Languages and Tools:</h3>
