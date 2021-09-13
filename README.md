@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Gaurav Kandel</h1>
-<h3 align="center">A passionate software engineer</h3>
+<h3 align="center">A Passionate Data Scientist</h3>
 
 - 🌱 I’m currently learning **Data Science And Machine Learning**
 
-- 💬 Ask me about **MERN, Data Science and Data Visuaization**
+- 💬 Ask me about **Data Science, MERN and Data Visuaization**
 
 - 📫 Reach me at **kandelgaurav7@gmail.com**
 
