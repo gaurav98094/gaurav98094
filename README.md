@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Gaurav Kandel</h1>
-<h3 align="center">A passionate Data Scientist & Engineer from India</h3>
+<h3 align="center">A passionate Data Scientist</h3>
 
 - 🔭 I’m currently working on **myself**
 
@@ -10,8 +10,6 @@
 - 🤝 I’m looking for help with **anything**
 
 - 👨‍💻 All of my projects are available at [https://gaurav98094.github.io/portfolio-website/](https://gaurav98094.github.io/portfolio-website/)
-
-- 💬 Ask me about **Data Science & Engineering**
 
 - 📫 How to reach me **kandelgaurav7@gmail.com**
 
